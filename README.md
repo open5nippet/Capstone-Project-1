@@ -535,7 +535,9 @@ This is an educational project created as part of the "Programming for Problem S
 
 **Project Name:** Campus Energy-Use Dashboard  
 **Course:** Programming for Problem Solving using Python  
-**Capstone Weightage:** 40% of course grade
+**Name:** Ayush Kumar
+**Roll No:** 2501420003
+**Programme:** BTech CSE (DS)
 
 ---
 
