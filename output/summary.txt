@@ -1,0 +1,82 @@
+
+==================================================================
+        CAMPUS ENERGY-USE DASHBOARD - EXECUTIVE SUMMARY
+==================================================================
+
+ANALYSIS PERIOD: 2024-11-01 to 2024-11-08
+
+==================================================================
+
+CAMPUS OVERVIEW
+------------------------------------------------------------------
+* Total Campus Consumption: 8,926.60 kWh
+* Number of Buildings Analyzed: 5
+* Data Points Collected: 160
+* Analysis Period: 7 days
+
+==================================================================
+
+DAILY CONSUMPTION STATISTICS
+------------------------------------------------------------------
+* Average Daily Consumption: 1,115.82 kWh
+* Maximum Daily Consumption: 1,203.30 kWh
+* Minimum Daily Consumption: 928.20 kWh
+
+==================================================================
+
+TOP CONSUMERS
+------------------------------------------------------------------
+Highest Consuming Building: Dormitory
+  * Total Consumption: 2,599.70 kWh
+  * Average per Reading: 81.24 kWh
+  * Peak Consumption: 97.30 kWh
+
+Lowest Consuming Building: Library
+  * Total Consumption: 1,030.00 kWh
+  * Average per Reading: 32.19 kWh
+  * Peak Consumption: 40.80 kWh
+
+==================================================================
+
+PEAK LOAD ANALYSIS
+------------------------------------------------------------------
+* Peak Load Time: 12:00
+
+==================================================================
+
+KEY INSIGHTS & RECOMMENDATIONS
+------------------------------------------------------------------
+1. Consumption Variability: The standard deviation across buildings is 
+   significant, indicating opportunities for energy efficiency improvements.
+
+2. Peak Hour Management: Focus on reducing peak-hour consumption through:
+   - Demand-side management programs
+   - Peak load shifting initiatives
+   - Equipment efficiency upgrades
+
+3. Building Comparisons: Dormitory consumes 
+   152.4% more energy than Library.
+   Investigate operational differences for best practices sharing.
+
+4. Weekly Patterns: Weekday vs. weekend consumption patterns show clear 
+   variations. Implement occupancy-based control systems.
+
+5. Efficiency Targets: Setting a 10-15% reduction target across all 
+   buildings could save 1,115.83 kWh annually.
+
+==================================================================
+
+OUTPUT FILES GENERATED
+------------------------------------------------------------------
+[OK] dashboard.png                    - Multi-chart visualization
+[OK] cleaned_energy_data.csv          - Processed dataset
+[OK] building_summary.csv             - Building statistics
+[OK] hourly_peak_analysis.csv         - Time-based analysis
+[OK] energy_dashboard.log             - Execution log
+[OK] summary.txt                      - This executive summary
+[OK] Individual building charts       - Per-building visualizations
+
+==================================================================
+Report Generated: 2025-12-04 19:46:21
+==================================================================
+    

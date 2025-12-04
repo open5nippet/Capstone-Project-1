@@ -1,0 +1,161 @@
+date,time,kwh,building_name
+2024-11-01,08:00,45.2,Admin Building
+2024-11-01,12:00,52.8,Admin Building
+2024-11-01,16:00,48.5,Admin Building
+2024-11-01,20:00,35.6,Admin Building
+2024-11-02,08:00,46.1,Admin Building
+2024-11-02,12:00,54.3,Admin Building
+2024-11-02,16:00,49.2,Admin Building
+2024-11-02,20:00,36.8,Admin Building
+2024-11-03,08:00,44.7,Admin Building
+2024-11-03,12:00,51.2,Admin Building
+2024-11-03,16:00,47.8,Admin Building
+2024-11-03,20:00,34.9,Admin Building
+2024-11-04,08:00,47.3,Admin Building
+2024-11-04,12:00,55.6,Admin Building
+2024-11-04,16:00,50.1,Admin Building
+2024-11-04,20:00,37.4,Admin Building
+2024-11-05,08:00,45.9,Admin Building
+2024-11-05,12:00,53.4,Admin Building
+2024-11-05,16:00,48.7,Admin Building
+2024-11-05,20:00,35.2,Admin Building
+2024-11-06,08:00,38.2,Admin Building
+2024-11-06,12:00,42.1,Admin Building
+2024-11-06,16:00,40.3,Admin Building
+2024-11-06,20:00,28.5,Admin Building
+2024-11-07,08:00,36.8,Admin Building
+2024-11-07,12:00,40.5,Admin Building
+2024-11-07,16:00,38.9,Admin Building
+2024-11-07,20:00,27.4,Admin Building
+2024-11-08,08:00,46.5,Admin Building
+2024-11-08,12:00,54.2,Admin Building
+2024-11-08,16:00,49.8,Admin Building
+2024-11-08,20:00,36.5,Admin Building
+2024-11-01,08:00,78.3,Dormitory
+2024-11-01,12:00,85.6,Dormitory
+2024-11-01,16:00,82.4,Dormitory
+2024-11-01,20:00,95.2,Dormitory
+2024-11-02,08:00,79.1,Dormitory
+2024-11-02,12:00,86.8,Dormitory
+2024-11-02,16:00,83.5,Dormitory
+2024-11-02,20:00,96.7,Dormitory
+2024-11-03,08:00,77.6,Dormitory
+2024-11-03,12:00,84.2,Dormitory
+2024-11-03,16:00,81.3,Dormitory
+2024-11-03,20:00,93.8,Dormitory
+2024-11-04,08:00,80.2,Dormitory
+2024-11-04,12:00,87.5,Dormitory
+2024-11-04,16:00,84.7,Dormitory
+2024-11-04,20:00,97.3,Dormitory
+2024-11-05,08:00,78.8,Dormitory
+2024-11-05,12:00,85.4,Dormitory
+2024-11-05,16:00,82.1,Dormitory
+2024-11-05,20:00,94.9,Dormitory
+2024-11-06,08:00,62.5,Dormitory
+2024-11-06,12:00,68.3,Dormitory
+2024-11-06,16:00,65.1,Dormitory
+2024-11-06,20:00,75.6,Dormitory
+2024-11-07,08:00,61.2,Dormitory
+2024-11-07,12:00,67.1,Dormitory
+2024-11-07,16:00,64.3,Dormitory
+2024-11-07,20:00,74.2,Dormitory
+2024-11-08,08:00,79.6,Dormitory
+2024-11-08,12:00,86.2,Dormitory
+2024-11-08,16:00,83.8,Dormitory
+2024-11-08,20:00,96.4,Dormitory
+2024-11-01,08:00,32.4,Library
+2024-11-01,12:00,38.7,Library
+2024-11-01,16:00,35.2,Library
+2024-11-01,20:00,28.6,Library
+2024-11-02,08:00,33.1,Library
+2024-11-02,12:00,39.5,Library
+2024-11-02,16:00,35.9,Library
+2024-11-02,20:00,29.2,Library
+2024-11-03,08:00,31.8,Library
+2024-11-03,12:00,37.6,Library
+2024-11-03,16:00,34.3,Library
+2024-11-03,20:00,27.9,Library
+2024-11-04,08:00,34.2,Library
+2024-11-04,12:00,40.8,Library
+2024-11-04,16:00,37.1,Library
+2024-11-04,20:00,30.1,Library
+2024-11-05,08:00,32.9,Library
+2024-11-05,12:00,39.2,Library
+2024-11-05,16:00,35.6,Library
+2024-11-05,20:00,28.9,Library
+2024-11-06,08:00,25.7,Library
+2024-11-06,12:00,30.3,Library
+2024-11-06,16:00,27.8,Library
+2024-11-06,20:00,22.4,Library
+2024-11-07,08:00,24.5,Library
+2024-11-07,12:00,29.1,Library
+2024-11-07,16:00,26.7,Library
+2024-11-07,20:00,21.6,Library
+2024-11-08,08:00,33.5,Library
+2024-11-08,12:00,39.8,Library
+2024-11-08,16:00,36.2,Library
+2024-11-08,20:00,29.4,Library
+2024-11-01,08:00,68.5,Science Lab
+2024-11-01,12:00,75.2,Science Lab
+2024-11-01,16:00,72.8,Science Lab
+2024-11-01,20:00,58.3,Science Lab
+2024-11-02,08:00,69.2,Science Lab
+2024-11-02,12:00,76.8,Science Lab
+2024-11-02,16:00,74.1,Science Lab
+2024-11-02,20:00,59.5,Science Lab
+2024-11-03,08:00,67.8,Science Lab
+2024-11-03,12:00,74.6,Science Lab
+2024-11-03,16:00,71.5,Science Lab
+2024-11-03,20:00,57.9,Science Lab
+2024-11-04,08:00,70.1,Science Lab
+2024-11-04,12:00,78.3,Science Lab
+2024-11-04,16:00,75.6,Science Lab
+2024-11-04,20:00,60.2,Science Lab
+2024-11-05,08:00,68.9,Science Lab
+2024-11-05,12:00,76.2,Science Lab
+2024-11-05,16:00,73.4,Science Lab
+2024-11-05,20:00,58.8,Science Lab
+2024-11-06,08:00,55.3,Science Lab
+2024-11-06,12:00,62.1,Science Lab
+2024-11-06,16:00,59.7,Science Lab
+2024-11-06,20:00,48.5,Science Lab
+2024-11-07,08:00,54.2,Science Lab
+2024-11-07,12:00,61.5,Science Lab
+2024-11-07,16:00,58.9,Science Lab
+2024-11-07,20:00,47.3,Science Lab
+2024-11-08,08:00,69.7,Science Lab
+2024-11-08,12:00,77.4,Science Lab
+2024-11-08,16:00,74.8,Science Lab
+2024-11-08,20:00,59.2,Science Lab
+2024-11-01,08:00,55.7,Sports Complex
+2024-11-01,12:00,62.3,Sports Complex
+2024-11-01,16:00,59.8,Sports Complex
+2024-11-01,20:00,51.2,Sports Complex
+2024-11-02,08:00,56.4,Sports Complex
+2024-11-02,12:00,63.1,Sports Complex
+2024-11-02,16:00,60.6,Sports Complex
+2024-11-02,20:00,52.1,Sports Complex
+2024-11-03,08:00,54.9,Sports Complex
+2024-11-03,12:00,61.5,Sports Complex
+2024-11-03,16:00,58.9,Sports Complex
+2024-11-03,20:00,50.4,Sports Complex
+2024-11-04,08:00,57.2,Sports Complex
+2024-11-04,12:00,64.6,Sports Complex
+2024-11-04,16:00,61.7,Sports Complex
+2024-11-04,20:00,53.3,Sports Complex
+2024-11-05,08:00,55.8,Sports Complex
+2024-11-05,12:00,62.7,Sports Complex
+2024-11-05,16:00,60.1,Sports Complex
+2024-11-05,20:00,51.8,Sports Complex
+2024-11-06,08:00,48.3,Sports Complex
+2024-11-06,12:00,53.9,Sports Complex
+2024-11-06,16:00,51.6,Sports Complex
+2024-11-06,20:00,44.7,Sports Complex
+2024-11-07,08:00,47.1,Sports Complex
+2024-11-07,12:00,52.8,Sports Complex
+2024-11-07,16:00,50.5,Sports Complex
+2024-11-07,20:00,43.6,Sports Complex
+2024-11-08,08:00,56.8,Sports Complex
+2024-11-08,12:00,63.5,Sports Complex
+2024-11-08,16:00,60.9,Sports Complex
+2024-11-08,20:00,52.4,Sports Complex
